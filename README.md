@@ -30,7 +30,7 @@ Both versions follow a similar structure but speak to different audiences.
   - Discussion & Future Work  
 - References include: NIST frameworks, Eco’s *Foucault’s Pendulum*, Bataille, Ramanujan, slime mold computation research  
 
-📄 [Read the Academic Whitepaper](academic.md)  
+📄 [Read the Academic Whitepaper](WP-Academic.pdf)  
 
 ---
 
@@ -46,7 +46,7 @@ Both versions follow a similar structure but speak to different audiences.
   - Roadmap & Next Steps  
 - References include: slime mold computational research, NASA dark matter mapping, emergent computation  
 
-📄 [Read the Startup Whitepaper](startup.md)  
+📄 [Read the Startup Whitepaper](WP-Startup.pdf)  
 
 ---
 
