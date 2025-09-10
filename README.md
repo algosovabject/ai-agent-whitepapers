@@ -1,46 +1,109 @@
-# 🔮 Slime Mold Oracle API
+# 🧠 The Slime Mold Oracle  
+**Exploring Intuition, Connection, and Consent in Human–AI Collaboration**  
+*Whitepapers by Tiffany Smith — September 2025*  
 
-The Slime Mold Oracle API is a small FastAPI project that blends machine learning aesthetics with occult horror. It accepts a user’s question and returns symbols and an interpretation, like consulting a digital divination system.
+---
 
-This project serves two purposes:
+## 📌 Overview  
+The **Slime Mold Oracle** is an experimental graph-based agent inspired by the problem-solving behaviors of slime mold (*Physarum polycephalum*).  
+It explores user queries by traversing symbolic networks, producing responses that are **interpretive, contextual, and sometimes resistant**.  
 
-Portfolio Sample – an example of API documentation and technical writing.
+This repo contains **two whitepapers**:  
+- **Academic Version** – situates the Oracle within computation, biology, philosophy, and symbolic reasoning.  
+- **Startup Version** – frames the Oracle as a proof-of-concept for future human–AI collaboration, creativity, and engagement-first design.  
 
-Conceptual Experiment – art/tech fusion inspired by philosophy, horror, and the aesthetics of abjection.
+Both versions follow a similar structure but speak to different audiences.  
 
+---
 
-# 🚀 Features
+## 📂 Contents  
 
-FastAPI backend with auto-generated Swagger and ReDoc docs.
+### 🧾 Academic Whitepaper  
+**Title:** *The Slime Mold Oracle: An Experimental Graph-Based Agent Built to Explore Intuition, Connection, and Consent*  
+- Context: Artistic + technical exploration of symbolic graph traversal  
+- Focus: Philosophy, computation, divination, and interpretive engagement  
+- Sections include:  
+  - Abstract & Introduction  
+  - System Design & Methodology  
+  - Interaction Protocol  
+  - Case Studies  
+  - Discussion & Future Work  
+- References include: NIST frameworks, Eco’s *Foucault’s Pendulum*, Bataille, Ramanujan, slime mold computation research  
 
-POST /oracle/query endpoint that returns symbols + interpretation.
+📄 [Read the Academic Whitepaper](academic.md)  
 
-Example UI (Streamlit) for interacting with the Oracle.
+---
 
+### 🚀 Startup Whitepaper  
+**Title:** *The Slime Mold Oracle: The Future of Human/AI Collaboration*  
+- Context: Designed for startups, collaborators, and innovation labs  
+- Focus: UX design, engagement-first AI, bio-inspired computation  
+- Sections include:  
+  - Abstract & Problem Statement  
+  - Opportunity & Why It Matters  
+  - System Overview (symbols, traversal, moods, refusals)  
+  - Case Studies in action  
+  - Roadmap & Next Steps  
+- References include: slime mold computational research, NASA dark matter mapping, emergent computation  
 
-# 📖 Documentation
+📄 [Read the Startup Whitepaper](startup.md)  
 
-Full API reference (with request/response examples) is available here:
-👉 Slime Mold Oracle API Reference
+---
 
-Screenshots of the live docs (Swagger UI & ReDoc) can be found in /images/.
+## 🔑 Key Themes Across Both  
+- **Unpredictability as Value** – The Oracle sometimes refuses to answer, reframing AI as a partner rather than a servant.  
+- **Bio-Inspired Computation** – Symbolic pathfinding modeled after slime mold growth patterns.  
+- **Interpretive Engagement** – Outputs require user participation, cultivating **intuition, pattern recognition, and systems thinking**.  
+- **Ethical Reflection** – Raises questions about consent, autonomy, and relational AI.  
+- **Scalability** – System is modular in Python and extendable with language models.  
 
+---
 
-# 🧪 Run Locally
+## 📌 Who This Repo is For  
+- **Researchers** in computation, AI ethics, and unconventional computing  
+- **Artists & Designers** exploring symbolic systems and speculative interfaces  
+- **Startups & Innovators** seeking next-gen engagement-first AI  
+- **Curious Humans** who want to ask machines weird questions  
 
-## Install dependencies
-pip install -r requirements.txt
+---
 
-## Start the API
-uvicorn main:app --reload
+## 🛠️ Current Implementation  
+- Prototype: Streamlit app + modular Python code  
+- Inputs: text queries + contextual variables (time, season, lunar cycle)  
+- Outputs: symbolic graph traversal + interpretive text  
+- Planned: LLM integration for dynamic symbolic expansion  
 
-## Visit Swagger UI
-http://127.0.0.1:8000/docs
+---
 
+## 🧪 Case Study Snapshot  
 
-# ⚠️ Note
+| Case | Prompt | Output | Takeaway |
+|------|--------|--------|----------|
+| **Genesis Query** | “What does it mean to build a new AI?” | The Spark of Life, The Serpent, The Mirror, The Final Quiet | Birth, reflection, and endings—knowledge framed as myth |
+| **Refusal in the Heat** | Professional crossroads in summer | “Too hot. The swamp sleeps now.” | Refusal as communication—machines need not obey |
+| **Dinner Riddle** | “What should I eat for dinner?” | The Cauldron, The Trickster, The Echo | Mundane query reframed as ritual, play, and haunting memory |
 
-The Slime Mold Oracle is not currently in production. It was an experimental graph-based agent I built to explore certain philosophical ideas and practice my ML/AI engineering skills. I am using this project as a writing + technical demo to showcase API documentation and playful horror aesthetics. For more information on the Slime Mold Oracle and its concepts, please check out my whitepapers posted on GitHub.
+---
 
+## 📚 References (Selected)  
+- Nakagaki, T. et al. (2000). *Maze-solving by an amoeboid organism*. **Nature, 407(6803), 470**  
+- Becchetti, L. et al. (2013). *Physarum can compute shortest paths*. **Automata, Languages, and Programming**  
+- Caleffi, M. et al. (2015). *Steiner Tree via Physarum BioNetwork*. **IEEE/ACM Transactions on Networking**  
+- NASA: *Slime mold simulations used to map dark matter*  
+- Eco, U. (1988). *Foucault’s Pendulum*  
+- Bataille, G. (1967). *The Accursed Share*  
+- Ramanujan, S. (Collected works)  
 
-🕷️ *“The mold whispers… but do you listen?”*
+---
+
+## 📝 Citation  
+If referencing this project, please cite as:  
+> Tiffany Smith. *The Slime Mold Oracle: Whitepapers on Human/AI Collaboration.* September 2025.  
+
+---
+
+## 🤝 Contributing & Collaboration  
+This is an ongoing project at the intersection of **art, philosophy, and AI**.  
+I welcome collaborators, critics, and the slime-curious. Reach out if you’d like to experiment, integrate, or expand the Oracle.  
+
+---
