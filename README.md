@@ -9,14 +9,17 @@ This repo contains **two whitepapers**:
 - **Startup Version** – frames the Oracle as a proof-of-concept for future human–AI collaboration, creativity, and engagement-first design.  
 
 ## Why I wrote this: 
-To round out my technical writing portfolio with a concise, structured KB article—the type most companies rely on daily.
+To practice two distinct writing modes: one academic-style, fully cited whitepaper, and one startup-style strategic pitch. Both tackle the same technical project from different angles.
 
 ## What it demonstrates: 
-Ability to format in Markdown, write for multiple audiences, translate jargon into clear explanations, and provide glossary-style reference material.
+- Adapting technical content to multiple audiences and tones.  
+- Synthesizing research into structured, well-cited analysis.  
+- Positioning emerging tech within industry or conceptual contexts.  
 
 ## Read here:
 📄 [Read the Academic Whitepaper](WP-Academic.pdf)  
 📄 [Read the Startup Whitepaper](WP-Startup.pdf)  
+
 
 ## 🧪 Case Study Snapshot  
 
